@@ -2,7 +2,7 @@ main:
 # - title: "Attending"       <-- Only you know this page exists right now
 #   url: "/attending/"
 # - title: "Accepted Papers"       <-- Only you know this page exists right now
-#   url: "/accepted_papers/"
+#   url: "/accepted/"
   - title: "Overview"
     url: "/#overview"
   - title: "Call for Papers"
