@@ -2,9 +2,12 @@
 layout: splash
 title: "Frontier in Statistical Machine Learning (FSML) 2026"
 classes: wide
-# header:
-#   teaser: /assets/images/your-teaser.png   # only if you actually have an image
+header:
+  overlay_image: /assets/images/split.jpg
+  overlay_filter: 0.35
+  caption: "Split, Croatia"
 ---
+
 
 **Co-located with ICSDS 2026**  
 **Location:** Split, Croatia  
