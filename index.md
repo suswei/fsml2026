@@ -61,8 +61,8 @@ Papers recently accepted at major ML venues (e.g., ICML, NeurIPS, ICLR, AISTATS,
 {: #dates }
 
 | :--- | :--- |
-| **Submission Deadline** | TBA |
-| **Notification of Acceptance/Travel Award** | TBA |
+| **Submission Deadline** | Monday, August 31st, 2026 (AOE) |
+| **Notification of Acceptance/Travel Award** | Monday, September 14th, 2026 |
 | **Workshop Date** | Monday, December 14, 2026 |
 
 
