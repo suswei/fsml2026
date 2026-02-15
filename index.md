@@ -35,7 +35,8 @@ The 2026 program highlights two core themes:
   - **Interpretability, Alignment, and Safety:** Understanding and guiding AI systems to ensure ethical and safe operation.
   - **Emerging Learning Paradigms:** Investigating new approaches, such as in-context learning and scaling laws.
 
-***
+---
+
 
 ## Call for Papers
 {: #call }
@@ -104,4 +105,4 @@ Please indicate your interest in a travel award during the submission process on
 - **Feng Liu**, University of Melbourne  
 - **Susan Wei**, Monash University  
 
-**Contact:** `organizers@your-domain.com`
+**Contact:** `fsmlims@gmail.com`
