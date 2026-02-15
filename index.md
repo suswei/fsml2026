@@ -32,6 +32,9 @@ The 2026 program highlights two core themes:
 
 We invite submissions in the primary areas listed above. FSML 2026 offers two distinct tracks for participation.
 
+**Presentation Format:** Accepted submissions from both tracks will be presented in-person as posters.
+**Non-archival**: Both tracks are non-archival. 
+
 ### 1. Workshop Track (Non-archival)
 
 This track is for new research ideas or work-in-progress.
@@ -45,13 +48,12 @@ This track is for new research ideas or work-in-progress.
 
 ### 2. Fast Track (Recent Publications)
 
-This track is for papers recently accepted at major venues (e.g., ICML, NeurIPS, ICLR) after **[Month] 2025**. Fast Track is non-archival and does not have proceedings to avoid conflict with other venues’ double submission policies.
+Papers recently accepted at major ML venues (e.g., ICML, NeurIPS, ICLR, AISTATS, JMLR, TMLR) after **[Month] 2025** are eligible for the Fast Track.
 
 - **Format:** Submit the original **camera-ready PDF** (with author names included).
-- **Selection:** Based on original acceptance; no new peer review.
+- **Selection:** Fast Track submissions are selected based on eligibility and fit with the FSML workshop themes; no additional peer review is conducted.
 - **Submission:** [Submit via Google Form](https://your-google-form-link)
 
-**Presentation Format:** Accepted submissions from both tracks will be presented in-person as posters.
 
 ---
 
