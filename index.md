@@ -29,7 +29,8 @@ Inspired by the dynamic format of machine learning conference workshops, FSML br
 The 2026 program highlights two core themes:
 
 - **Area 1:** TBA
-- **Area 2:** TBA
+- **Area 2:** Science of Deep Learning
+- 
 
 ---
 
@@ -60,6 +61,8 @@ Papers recently accepted at major ML venues (e.g., ICML, NeurIPS, ICLR, AISTATS,
 - **Format:** Submit the original **camera-ready PDF** (with author names included).
 - **Selection:** Fast Track submissions are selected based on eligibility and fit with the FSML workshop themes; no additional peer review is conducted.
 - **Submission:** [Submit via Google Form](https://your-google-form-link)
+
+{: .notice--info}
 
 ---
 ## Travel Awards
