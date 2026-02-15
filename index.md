@@ -55,8 +55,8 @@ This track is for papers recently accepted at major venues (e.g., ICML, NeurIPS,
 
 <a name="organizers"></a>
 ### Organizers
-* **[Name]**, [University/Organization]
-* **[Name]**, [University/Organization]
-* **[Name]**, [University/Organization]
+* **Yuansi Chen**, ETH Zurich
+* **Feng Liu**, University of Melbourne
+* **Susan Wei**, Monash University
 
 **Contact:** For inquiries, please reach out to the organizing committee at `organizers@your-domain.com`.
