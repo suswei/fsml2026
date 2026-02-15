@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Frontier in Statistical Machine Learning (FSML) 2026"
 classes: wide
 # header:
