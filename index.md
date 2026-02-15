@@ -35,7 +35,7 @@ The 2026 program highlights two core themes:
   - **Interpretability, Alignment, and Safety:** Understanding and guiding AI systems to ensure ethical and safe operation.
   - **Emerging Learning Paradigms:** Investigating new approaches, such as in-context learning and scaling laws.
 
----
+***
 
 ## Call for Papers
 {: #call }
@@ -64,8 +64,6 @@ Papers recently accepted at major ML venues (e.g., ICML, NeurIPS, ICLR, AISTATS,
 - **Format:** Submit the original **camera-ready PDF** (with author names included).
 - **Selection:** Fast Track submissions are selected based on eligibility and fit with the FSML workshop themes; no additional peer review is conducted.
 - **Submission:** [Submit via Google Form](https://your-google-form-link)
-
-{: .notice--info}
 
 ---
 ## Travel Awards
