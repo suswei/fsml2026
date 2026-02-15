@@ -18,7 +18,13 @@ header:
 ## Overview
 {: #overview }
 
-The **Frontier in Statistical Machine Learning (FSML)** workshop...
+Building on the success of last year's inaugural launch ([FSML 2025](https://fsmlims.wixsite.com/fsml25)), the Institute of Mathematical Statistics (IMS) is proud to present the **2026 Frontiers in Statistical Machine Learning (FSML)** workshop.
+
+This annual series continues its mission to spotlight emerging and impactful topics in statistical machine learning that are rapidly evolving but have yet to receive significant attention in leading IMS and ASA publications. Each year, FSML focuses on specific core themes to encourage the dissemination of novel ideas and foster deeper engagement within the community.
+
+Inspired by the dynamic format of machine learning conference workshops, FSML brings a fresh and interactive approach to the statistics landscape. The workshop hosts an open call for short paper submissions, followed by a rigorous and transparent review process.
+
+**New for 2026:** We are introducing a **Fast Track** submission option for papers recently accepted at major machine learning venues (e.g., NeurIPS, ICML). This addition aims to bridge the gap between communities by showcasing high-impact ML work to a broader statistical audience.
 
 The 2026 program highlights two core themes:
 
