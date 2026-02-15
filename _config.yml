@@ -1,35 +1,27 @@
-title: "Frontier in Statistical Machine Learning (FSML) 2026)"
+title: "Frontier in Statistical Machine Learning (FSML) 2026"
 description: "Co-located with ICSDS 2026 | Split, Croatia | December 14, 2026"
 
-# Use Just the Docs
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
-
-# Site URL (important for GitHub Pages project sites)
 url: "https://suswei.github.io"
 baseurl: "/fsml2026"
 
-# Enable top navigation
-nav_external_links_new_tab: true
+remote_theme: "mmistakes/minimal-mistakes"
 
-# Optional: show last updated footer
-last_edit_timestamp: false
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
-# Color scheme (light is default; you can switch to dark)
-color_scheme: light
+# Use top navigation bar (not sidebar)
+minimal_mistakes_skin: "default"
 
-# Enable search (optional but nice)
-search_enabled: false
+# Navigation data file
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  caption: "Split, Croatia — December 14, 2026"
 
-# Navigation structure
-nav:
-  - title: Overview
-    url: /
-  - title: Call for Papers
-    url: /#call
-  - title: Key Dates
-    url: /#dates
-  - title: Organizers
-    url: /#organizers
+# Disable sidebar entirely
+sidebar:
+  nav: false
+
+# Enable search if you want (optional)
+search: false
