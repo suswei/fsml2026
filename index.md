@@ -30,7 +30,10 @@ The 2026 program highlights two core themes:
 
 - **Area 1:** TBA
 - **Area 2:** Science of Deep Learning
-- 
+  - **Theoretical Foundations:** Exploring mathematical and statistical principles underlying deep learning.
+  - **Phenomenological Studies of Learning Systems:** Cataloging and explaining intriguing behaviors in learning dynamics.
+  - **Interpretability, Alignment, and Safety:** Understanding and guiding AI systems to ensure ethical and safe operation.
+  - **Emerging Learning Paradigms:** Investigating new approaches, such as in-context learning and scaling laws.
 
 ---
 
