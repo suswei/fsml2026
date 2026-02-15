@@ -60,11 +60,20 @@ Papers recently accepted at major ML venues (e.g., ICML, NeurIPS, ICLR, AISTATS,
 ## Travel Awards
 {: #awards }
 
-We are pleased to offer travel awards to a selected number of papers accepted to the **Workshop Track**.
+We offer travel awards to selected papers accepted to the **Workshop Track**.
 
-- **Eligibility:** Student or postdoctoral first authors.
-- **Selection:** Awards are granted based on the technical quality of the submission and reviewer scores.
-- **How to Apply:** Please indicate your interest in a travel award during the submission process on OpenReview.
+**Eligibility:**
+* **Who can apply:** Graduate students and postdoctoral researchers who are the first author and presenter of an accepted paper.
+* **Exclusions:** If you have already applied for any of the following three awards this year, you are **not** eligible for the FSML travel award:
+  1. [IMS Hannan Graduate Student Travel Award](https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award/)
+  2. [IMS New Researcher Travel Award](https://imstat.org/ims-awards/ims-new-researcher-travel-award/)
+  3. ICSDS travel award
+
+**Selection Process:**
+Awards are granted based on the technical quality of the submission and reviewer scores.
+
+**How to Apply:**
+Please indicate your interest in a travel award during the submission process on OpenReview.
 
 ---
 
