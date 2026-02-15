@@ -1,46 +1,56 @@
-# [Workshop Name] 2026
-## Symposium on [Your Research Area]
-**Co-located with [Main Conference, e.g., ICML/NeurIPS 2026]** **Location:** [City, Country] | **Date:** December 15, 2026
+# Frontier in Statistical Machine Learning (FSML) 2026
+
+**Co-located with ICSDS 2026** **Location:** Split, Croatia | **Date:** Monday, December 14, 2026
 
 ---
 
+<a name="overview"></a>
 ### Overview
-This workshop focuses on the intersection of **[Topic A]** and **[Topic B]**. We aim to bring together researchers to discuss the latest advancements in [Sub-field]. 
+The **Frontier in Statistical Machine Learning (FSML)** symposium serves as a primary forum for researchers to explore the mathematical foundations and algorithmic innovations of the field. Our mission is to facilitate deep technical exchange between theorists and practitioners working on high-dimensional data, inference, and learning theory.
 
-We invite submissions for:
-* **Full Research Papers:** Up to 9 pages.
-* **Extended Abstracts:** 3–5 pages for work-in-progress.
+The 2026 program highlights two core themes:
+
+* **Area 1:** [Insert Topic, e.g., Non-asymptotic Theory of Deep Learning]
+* **Area 2:** [Insert Topic, e.g., Statistical Privacy and Fairness]
 
 ---
 
+<a name="call"></a>
+### Call for Contributions
+We invite submissions detailing original research or recently published advancements. FSML 2026 offers two distinct participation tracks:
+
+#### 1. Workshop Track (Non-archival)
+This track is intended for new work-in-progress or extended abstracts.
+* **Length:** 3–5 pages (excluding references and appendices).
+* **Review Process:** Submissions will undergo a double-blind peer review. Please ensure all author information is anonymized.
+* **Dual Submission:** Work currently under review at other conferences is eligible for submission without modification.
+* **Presentation:** Accepted papers will be showcased during the poster session.
+
+#### 2. Fast Track (Recent Publications)
+We encourage researchers to present significant results recently accepted at major venues (such as ICML, NeurIPS, ICLR, or AISTATS) to stimulate local discussion.
+* **Eligibility:** Papers accepted after [Insert Month] 2025.
+* **Formatting:** Please use the camera-ready version from the original venue.
+* **Note:** These submissions are not re-reviewed and will not appear in any formal proceedings to avoid copyright conflicts.
+
+[Submit to FSML 2026 via OpenReview](https://openreview.net/group?id=your-link)
+
+---
+
+<a name="dates"></a>
 ### Key Dates
 | Milestone | Date (2026) |
 | :--- | :--- |
-| **Submission Deadline** | October 20 |
-| **Reviews Released** | November 10 |
-| **Author Rebuttal Due** | November 17 |
-| **Acceptance Notification** | November 24 |
-| **Workshop Date** | December 15 |
+| **Submission Deadline** | [Month Day], 2026 |
+| **Notification of Acceptance** | [Month Day], 2026 |
+| **Final Camera-Ready Due** | [Month Day], 2026 |
+| **Workshop Date** | December 14, 2026 |
 
 ---
 
-### Call for Papers
-Across all tracks, we encourage contributions in the following areas:
-1. **Foundations:** Theoretical analysis of [X].
-2. **Applications:** Implementation of [Y] in real-world systems.
-3. **Safety & Ethics:** Investigations into the robustness of [Z].
-
-#### Submission Instructions
-All papers must be submitted via **[OpenReview/HotCRP Link]** in PDF format. Please use the [LaTeX Template](link-to-template) for formatting. 
-
----
-
+<a name="organizers"></a>
 ### Organizers
-* **Dr. [Name]**, [Affiliation/University]
-* **Dr. [Name]**, [Affiliation/University]
-* **Dr. [Name]**, [Affiliation/University]
+* **[Name]**, [University/Organization]
+* **[Name]**, [University/Organization]
+* **[Name]**, [University/Organization]
 
----
-
-### Contact
-For any questions, please contact the organizing committee at: `organizers@your-email.com`
+**Contact:** For inquiries, please reach out to the organizing committee at `organizers@your-domain.com`.
