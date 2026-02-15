@@ -1,0 +1,9 @@
+main:
+  - title: "Overview"
+    url: "/#overview"
+  - title: "Call for Papers"
+    url: "/#call"
+  - title: "Key Dates"
+    url: "/#dates"
+  - title: "Organizers"
+    url: "/#organizers"
